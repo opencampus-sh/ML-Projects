@@ -1,4 +1,4 @@
-# Deep Learning Projecsts - Winter Semester 20/21
+# Deep Learning Projects - Winter Semester 20/21
 
 ## Face Mask Recognition (WiSe 20/21)
 ##### Adnan Nooruddin, Ravish Kumar, Christoph Eberz, Bennet Möller
@@ -12,12 +12,14 @@ Which  painted this painting? Nils and John tried to answer this question using 
 ## Bike Sharing Prediction (SprottenFlotte) (WiSe 20/21)
 #### Andrej Ponomarenko, Daniel Michells
 Where will the next bike be borrowed? Analyzing the SprottenFlotte data from Kiel using different neural network a prediction can be made to decide where more bikes will be needed.
-*Note: the data for this project is private and cannot be shared, only the results.*
+
+*Note: the data for this project is private and cannot be shared, only the code and the results.*
 
 ## Windfinder Predictions (WiSe 20/21)
 ##### Lennart Petersen
 Predicting the best spot for surfing is a hard task, yet Lennart gave it a great shot and developed a model to predict it with 86% of accuracy.
-*Note: the data for this project is private and cannot be shared, only the results.*
+
+*Note: the data for this project is private and cannot be shared, only the code and the results.*
 
 ## Image Segmentation (WiSe 20/21) - [Own Repo](https://github.com/yej117/Image_Segmentation_Deep_Learning)
 ##### Yi-Jie Yang, Sebastian Koch, Erwin Smith and Suman Singha
