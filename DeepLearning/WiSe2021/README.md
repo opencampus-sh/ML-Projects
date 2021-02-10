@@ -19,21 +19,18 @@ Where will the next bike be borrowed? Analyzing the SprottenFlotte data from Kie
 Predicting the best spot for surfing is a hard task, yet Lennart gave it a great shot and developed a model to predict it with 86% of accuracy.
 *Note: the data for this project is private and cannot be shared, only the results.*
 
-## Image Segmentation (WiSe 20/21)
+## Image Segmentation (WiSe 20/21) - [Own Repo](https://github.com/yej117/Image_Segmentation_Deep_Learning)
 ##### Yi-Jie Yang, Sebastian Koch, Erwin Smith and Suman Singha
 In many application today, we need to segment images to separate an object from the background.
 This is quite a complicated task, but it's worth a shot! Using a U-Net the group was able to do some interesting work on a Kaggle Challenge.
-[Repo](https://github.com/yej117/Image_Segmentation_Deep_Learning)
 
-## COVID-19 Detection on X-Ray Image (WiSe 20/21)
+## COVID-19 Detection on X-Ray Image (WiSe 20/21) - [Own Repo](https://github.com/Mithunjack/COVID-19-Xray-Image-Classification)
 ##### Mithun Das, Mohammad Wasif Islam, Rakibuzzaman Mahmud, Sarker Miraz Mahfuz
 Can we detect COVID from an X-Ray image of the lungs?
 It turns out we can, or better, a software can do that for us.
 This project achieved an accuracy of 0.9896 on this task!
-[Repo](https://github.com/Mithunjack/COVID-19-Xray-Image-Classification)
 
-## Disease Classification on Medical XRay Images (WiSe 20/21)
+## Disease Classification on Medical XRay Images (WiSe 20/21) - [Own Repo](https://github.com/Mnpr/Thoractic-Diseases-Detection)
 ##### Sudesh Acharya
 Can a neural network distinguish different types of diseases just by looking at a single X-Ray image of the lungs?
 Quite an ambitious task, yet the project shows promising results in this direction.
-[Repo](https://github.com/Mnpr/Thoractic-Diseases-Detection)
