@@ -8,8 +8,7 @@ const projects = [
     students: 'Adnan Nooruddin, Ravish Kumar, Christoph Eberz, Bennet Möller',
     description: (
       <>
-      How can we quickly prove that everybody is wearing a mask?
-      This project has an answer, with a detection system which tells from a picture whether the person is wearing a mask or not.
+      This project develops a detection system which tells from a picture whether the person is wearing a mask or not.
       </>
     ),
     project_link: 'test',
