@@ -1,0 +1,73 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 1rem;
+  margin: 0.5rem 0rem;
+}
+
+.projects {
+  display: block;
+  align-items: center;
+  padding: 2rem 1rem;
+  margin: 0.5rem 0rem;
+}
+
+.card_img {
+  /*background-color: #eee;*/
+}
+
+.card_body {
+  padding: 1rem;
+  max-height: 300px;
+  font-size: small;
+}
+
+.proj_card {
+  border-radius: 20px;
+  border: 1px solid;
+}
+
+.proj_students {
+  font-weight: 400;
+  font-size: small;
+}
+
+.proj_students {
+  font-weight: 100;
+  font-size: small;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+.featureImage {
+  height: 200px;
+  width: 200px;
+}
