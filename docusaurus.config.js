@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Opencampus.sh Machine Learning Projects',
   tagline: 'This site offers an overview about all the projects done within the Opencampus Machine Learning Degree. Check below the projects for each course or go to the Machine Learning Degree Website.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://opencampus-sh.github.io',
+  baseUrl: '/ml-projects/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
