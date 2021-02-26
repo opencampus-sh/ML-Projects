@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/ML-Projects/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_OC.ico',
   organizationName: 'opencampus-sh', // Usually your GitHub org/user name.
   projectName: 'ml-projects', // Usually your repo name.
   themeConfig: {
@@ -13,7 +13,7 @@ module.exports = {
       title: 'OC ML Degree',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo_ds_2.png',
+        src: 'img/logo_OC.png',
       },
       items: [
         {
@@ -24,8 +24,8 @@ module.exports = {
         {to: 'mlt', label: 'Tensorflow', position: 'left'},
         {to: 'nlp', label: 'Natural Language Processing', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/opencampus-sh/ML-Projects',
+          label: 'GitHub Repo',
           position: 'right',
         },
       ],

@@ -50,7 +50,9 @@
 
 .proj_card {
   border-radius: 20px;
-  border: 1px solid;
+
+  -webkit-box-shadow: 0 0 5px;
+          box-shadow: 0 0 5px;
 }
 
 .proj_students {

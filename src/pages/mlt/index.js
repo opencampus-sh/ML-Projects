@@ -34,7 +34,7 @@ function Project({imageUrl, title, semester, students, description, project_link
             {project_link && (
               <a
                 className="button button--small button--secondary button--block"
-                href={title}
+                href={project_link}
                 target="_blank"
                 rel="noreferrer noopener">
                 Check out the Project!
