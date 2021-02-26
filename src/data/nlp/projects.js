@@ -1,5 +1,6 @@
 import React from 'react';
 
+const PROJECT_FOLDER = 'https://github.com/opencampus-sh/ML-Projects/blob/main/src/data/nlp/code/';
 const projects = [
   {
     title: 'Study Recommender System with GPT-3',
@@ -11,7 +12,7 @@ const projects = [
       Designing Airfoils
       </>
     ),
-    project_link: 'test',
+    project_link: PROJECT_FOLDER + 'StudyRecommendationGPT3/StudyRecommenderSystemwithGPT-3.pdf',
   },
   {
     title: 'Fine-tuning GPT-2',
@@ -23,7 +24,7 @@ const projects = [
       description
       </>
     ),
-    project_link: 'test',
+    project_link: 'notyetavailable',
   },
 ];
 
