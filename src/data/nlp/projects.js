@@ -9,10 +9,11 @@ const projects = [
     students: 'Jan Peter Prigge, Jan Deller, Erwin Smith',
     description: (
       <>
-      Designing Airfoils
+      How can we choose the best study program for us when there are so many choices?
+      Jan, Jan and Erwin built a system using state of the art technology to recommend you the best choice based on what you are looking for.
       </>
     ),
-    project_link: PROJECT_FOLDER + 'StudyRecommendationGPT3/StudyRecommenderSystemwithGPT-3.pdf',
+    project_link: PROJECT_FOLDER + '/StudyRecommendationGPT3/StudyRecommenderSystemwithGPT-3.pdf',
   },
   {
     title: 'Fine-tuning GPT-2',

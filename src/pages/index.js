@@ -10,7 +10,7 @@ const features = [
   {
     title: 'Deep Learning',
     imageUrl: 'https://edu.opencampus.sh/courses/146/medium.jpg',
-    directionUrl: "/dl",
+    directionUrl: '/ML-Projects/' + "dl",
     description: (
       <>
         The Deep Learning Course focused on learning the basics of neural networks starting from scratch.
@@ -20,7 +20,7 @@ const features = [
   {
     title: 'Machine Learning with Tensorflow',
     imageUrl: 'https://edu.opencampus.sh/courses/147/medium.jpg',
-    directionUrl: "/mlt",
+    directionUrl: '/ML-Projects/' + "mlt",
     description: (
       <>
         The Tensorflow Course focused on using the popular open-source framework for creating machine learning projects.
@@ -30,7 +30,7 @@ const features = [
   {
     title: 'Natural Language Processing',
     imageUrl: 'https://edu.opencampus.sh/courses/160/medium.jpg',
-    directionUrl: "/nlp",
+    directionUrl: '/ML-Projects/' + "nlp",
     description: (
       <>
         The Natural Language Processing Course focused on using neural network to analyze and process text.
