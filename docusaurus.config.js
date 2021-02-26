@@ -34,15 +34,19 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Courses',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Deep Learning',
+              to: 'dl',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Machine Learning with Tensorflow',
+              to: 'mlt',
+            },
+            {
+              label: 'Natural Language Processing',
+              to: 'nlp',
             },
           ],
         },
@@ -50,29 +54,33 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Mattermost',
+              href: 'https://chat.opencampus.sh',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Slack',
+              href: 'https://opencampus-sh.slack.com',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'KielAI',
+              href: 'https://kiel.ai/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Opencampus',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'opencampus.sh',
+              to: 'https://opencampus.sh',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'EDU Hub',
+              href: 'https://edu.opencampus.sh',
+            },
+            {
+              label: 'Machine Learning Degree',
+              href: 'https://edu.opencampus.sh/courses/158',
             },
           ],
         },
@@ -88,13 +96,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/opencampus-sh/ML-Projects/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/opencampus-sh/ML-Projects/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

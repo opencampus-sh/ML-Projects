@@ -10,7 +10,7 @@ const TITLE = 'Machine Learning with Tensorflow Projects';
 const DESCRIPTION =
   'See the awesome projects people finished during the course';
 const COURSE_URL =
-  'https://edu.opencampus.sh/courses/146';
+  'https://edu.opencampus.sh/courses/147';
 
 import projects from '../../data/mlt/projects';
 

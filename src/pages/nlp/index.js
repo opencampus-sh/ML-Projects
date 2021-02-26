@@ -10,7 +10,7 @@ const TITLE = 'Natural Language Processing Projects';
 const DESCRIPTION =
   'See the awesome projects people finished during the course';
 const COURSE_URL =
-  'https://edu.opencampus.sh/courses/146';
+  'https://edu.opencampus.sh/courses/160';
 
 import projects from '../../data/nlp/projects';
 
