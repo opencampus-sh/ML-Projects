@@ -13,6 +13,7 @@ const COURSE_URL =
   'https://edu.opencampus.sh/courses/146';
 
 import projects from '../../data/dl/projects';
+import courses from '../../data/courses.json';
 
 function Project({imageUrl, title, semester, students, description, project_link}) {
   const imgUrl = useBaseUrl(imageUrl);
@@ -47,6 +48,19 @@ function Project({imageUrl, title, semester, students, description, project_link
   );
 }
 
+
+
+function Buttons() {
+  const final = [];
+  for (let course of courses) {
+    final.push(<button className='button button--small button--primary button--block' key={courses.title}>{course.title}</button>);  }
+  return (
+    <div className="button-group button-group--block">
+      {final}
+    </div>
+  );
+}
+
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
@@ -58,14 +72,9 @@ function Home() {
         <div className="text--center">
           <h1>{TITLE}</h1>
           <p>{DESCRIPTION}</p>
-          <p>
-            <a
-              className={'button button--primary'}
-              href={COURSE_URL}
-              target={'_blank'}>
-              Take the course and do yours!
-            </a>
-          </p>
+          <div className="buttons">
+            <Buttons />
+          </div>
         </div>
         {projects && projects.length > 0 && (
           <section className={styles.features}>

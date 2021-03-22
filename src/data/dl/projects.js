@@ -4,7 +4,7 @@ const PROJECT_FOLDER = 'https://github.com/opencampus-sh/ML-Projects/blob/main/s
 const projects = [
   {
     title: 'Face Mask Recognition',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/DeepLearningFaceMaskRecognitionProject.png',
     semester: 'WiSe 20/21',
     students: 'Adnan Nooruddin, Ravish Kumar, Christoph Eberz, Bennet Möller',
     description: (
@@ -16,7 +16,7 @@ const projects = [
   },
   {
     title: 'Painting Classification',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/PaintingClassificationProject.png',
     semester: 'WiSe 20/21',
     students: 'John Jay Kimani, Nils Berns',
     description: (
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     title: 'Bike Sharing Prediction (SprottenFlotte)',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/BikeSharingPredictionProject.png',
     semester: 'WiSe 20/21',
     students: 'Andrej Ponomarenko, Daniel Michells',
     description: (
@@ -40,7 +40,7 @@ const projects = [
   },
   {
     title: 'Windfinder Predictions',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/WindfinderProject.png',
     semester: 'WiSe 20/21',
     students: 'Lennart Petersen',
     description: (
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     title: 'Image Segmentation',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/ImageSegmentationProject.png',
     semester: 'WiSe 20/21',
     students: 'Yi-Jie Yang, Sebastian Koch, Erwin Smith, Suman Singha',
     description: (
@@ -65,7 +65,7 @@ const projects = [
   },
   {
     title: 'COVID-19 Detection on X-Ray Image',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/COVID-19-Xray-Image-ClassificationProject.png',
     semester: 'WiSe 20/21',
     students: 'Mithun Das, Mohammad Wasif Islam, Rakibuzzaman Mahmud, Sarker Miraz Mahfuz',
     description: (
@@ -79,7 +79,7 @@ const projects = [
   },
   {
     title: 'Disease Classification on Medical XRay Images',
-    imageUrl: 'img/placeholder_DL.png',
+    imageUrl: 'img/dl/DiseaseClassificationXRayProject.png',
     semester: 'WiSe 20/21',
     students: 'Sudesh Acharya',
     description: (

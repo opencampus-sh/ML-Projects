@@ -24,6 +24,12 @@
   justify-content: center;
 }
 
+.filter-btn {
+  padding: 1rem;
+  color: white;
+  background-color: black;
+}
+
 .features {
   display: flex;
   align-items: center;
