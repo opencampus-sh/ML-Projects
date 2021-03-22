@@ -4,7 +4,7 @@ const PROJECT_FOLDER = 'https://github.com/opencampus-sh/ML-Projects/blob/main/s
 const projects = [
   {
     title: 'Study Recommender System with GPT-3',
-    imageUrl: 'img/placeholder_NLP.png',
+    imageUrl: 'img/StudyRecommendationGPT3Project.PNG',
     semester: 'WiSe 20/21',
     students: 'Jan Peter Prigge, Jan Deller, Erwin Smith',
     description: (
