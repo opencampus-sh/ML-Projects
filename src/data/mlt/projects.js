@@ -42,7 +42,7 @@ const projects = [
   },
   {
     title: 'Designing Airfoils',
-    imageUrl: 'img/mlt/AirfoilsDesignProject.png',
+    imageUrl: 'img/mlt/AirfoilsDesignProject.PNG',
     semester: 'WiSe 20/21',
     students: 'Nils Berns, Violetta Germann',
     description: (
