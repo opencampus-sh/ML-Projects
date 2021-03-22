@@ -108,7 +108,7 @@ const projects = [
   },
   {
     title: 'Using containership positions (AIS) to predict export statistics',
-    imageUrl: 'img/AIS_predictionProject.PNG',
+    imageUrl: 'img/mlt/AIS_predictionProject.PNG',
     semester: 'WiSe 20/21',
     students: 'Jakob Stender, Steffen Gans',
     description: (
