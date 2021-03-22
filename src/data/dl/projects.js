@@ -3,6 +3,20 @@ import React from 'react';
 const PROJECT_FOLDER = 'https://github.com/opencampus-sh/ML-Projects/blob/main/src/data/dl/code/';
 const projects = [
   {
+    title: 'COVID-19 Detection on X-Ray Image',
+    imageUrl: 'img/dl/COVID-19-Xray-Image-ClassificationProject.PNG',
+    semester: 'WiSe 20/21',
+    students: 'Mithun Das, Mohammad Wasif Islam, Rakibuzzaman Mahmud, Sarker Miraz Mahfuz',
+    description: (
+      <>
+      Can we detect COVID from an X-Ray image of the lungs?
+      It turns out we can, or better, a software can do that for us.
+      This project achieved an accuracy of 0.9896 on this task!
+      </>
+    ),
+    project_link: PROJECT_FOLDER + 'COVID-19-Xray-Image-Classification',
+  },
+  {
     title: 'Face Mask Recognition',
     imageUrl: 'img/dl/DeepLearningFaceMaskRecognitionProject.PNG',
     semester: 'WiSe 20/21',
@@ -39,6 +53,19 @@ const projects = [
     project_link: PROJECT_FOLDER + 'BikeSharingPrediction',
   },
   {
+    title: 'Disease Classification on Medical XRay Images',
+    imageUrl: 'img/dl/DiseaseClassificationXRayProject.PNG',
+    semester: 'WiSe 20/21',
+    students: 'Sudesh Acharya',
+    description: (
+      <>
+      Can a neural network distinguish different types of diseases just by looking at a single X-Ray image of the lungs?
+      The project shows promising results in this direction.
+      </>
+    ),
+    project_link: PROJECT_FOLDER + 'DiseaseClassificationXRay',
+  },
+  {
     title: 'Windfinder Predictions',
     imageUrl: 'img/dl/WindfinderProject.png',
     semester: 'WiSe 20/21',
@@ -62,33 +89,6 @@ const projects = [
       </>
     ),
     project_link: PROJECT_FOLDER + 'ImageSegmentation',
-  },
-  {
-    title: 'COVID-19 Detection on X-Ray Image',
-    imageUrl: 'img/dl/COVID-19-Xray-Image-ClassificationProject.PNG',
-    semester: 'WiSe 20/21',
-    students: 'Mithun Das, Mohammad Wasif Islam, Rakibuzzaman Mahmud, Sarker Miraz Mahfuz',
-    description: (
-      <>
-      Can we detect COVID from an X-Ray image of the lungs?
-      It turns out we can, or better, a software can do that for us.
-      This project achieved an accuracy of 0.9896 on this task!
-      </>
-    ),
-    project_link: PROJECT_FOLDER + 'COVID-19-Xray-Image-Classification',
-  },
-  {
-    title: 'Disease Classification on Medical XRay Images',
-    imageUrl: 'img/dl/DiseaseClassificationXRayProject.PNG',
-    semester: 'WiSe 20/21',
-    students: 'Sudesh Acharya',
-    description: (
-      <>
-      Can a neural network distinguish different types of diseases just by looking at a single X-Ray image of the lungs?
-      The project shows promising results in this direction.
-      </>
-    ),
-    project_link: PROJECT_FOLDER + 'DiseaseClassificationXRay',
   },
 ];
 

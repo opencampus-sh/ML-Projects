@@ -76,6 +76,7 @@ a:link{
 }
 
 .featureImage {
+  padding: 0.4rem;
   height: 200px;
   width: 200px;
 }

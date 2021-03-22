@@ -4,7 +4,7 @@ const PROJECT_FOLDER = 'https://github.com/opencampus-sh/ML-Projects/blob/main/s
 const projects = [
   {
     title: 'Study Recommender System with GPT-3',
-    imageUrl: 'img/StudyRecommendationGPT3Project.PNG',
+    imageUrl: 'img/nlp/StudyRecommendationGPT3Project.PNG',
     semester: 'WiSe 20/21',
     students: 'Jan Peter Prigge, Jan Deller, Erwin Smith',
     description: (
@@ -17,15 +17,16 @@ const projects = [
   },
   {
     title: 'Fine-tuning GPT-2',
-    imageUrl: 'img/placeholder_NLP.png',
+    imageUrl: 'img/nlp/gpt-2.png',
     semester: 'WiSe 20/21',
     students: 'Steffen Brandt, Steffen Pohle, Atul Kumar Yadav, Jonas Peltner, Nicolas Steen, Philipp Seeler',
     description: (
       <>
-      description
+      Can GPT-2 be fine-tuned to achieve GPT-3 like accuracies?
+      The project fine-tuned different models and compared them on different tasks.
       </>
     ),
-    project_link: 'notyetavailable',
+    project_link: 'https://github.com/steffen74/GPT-2',
   },
 ];
 

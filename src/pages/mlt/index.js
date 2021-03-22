@@ -10,7 +10,7 @@ const TITLE = 'Machine Learning with Tensorflow Projects';
 const DESCRIPTION =
   'See the awesome projects people finished during the course';
 const COURSE_URL =
-  'https://edu.opencampus.sh/courses/147';
+  'https://edu.opencampus.sh/courses/183';
 
 import projects from '../../data/mlt/projects';
 
@@ -52,8 +52,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Machine Learning with Tensorflow @ Opencampus.sh`}
+      description="Projects from the Machine Learning with Tensorflow Course at Opencampus.sh">
       <main className="container margin-vert--lg">
         <div className="text--center">
           <h1>{TITLE}</h1>

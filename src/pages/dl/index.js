@@ -10,7 +10,7 @@ const TITLE = 'Deep Learning Projects';
 const DESCRIPTION =
   'See the awesome projects people finished during the course';
 const COURSE_URL =
-  'https://edu.opencampus.sh/courses/146';
+  'https://edu.opencampus.sh/';
 
 import projects from '../../data/dl/projects';
 
@@ -52,8 +52,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Deep Learning Projects`}
-      description="Projects from the Deep Learning Course @ Opencampus">
+    title={`Deep Learning @ Opencampus.sh`}
+    description="Projects from the Deep Learning Course at Opencampus.sh">
       <main className="container margin-vert--lg">
         <div className="text--center">
           <h1>{TITLE}</h1>
