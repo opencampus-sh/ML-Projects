@@ -53,7 +53,7 @@ function Home() {
   return (
     <Layout
     title={`Natural Language Processing @ Opencampus.sh`}
-    description="Projects from theNatural Language Processing Course at Opencampus.sh">
+    description="Projects from the Natural Language Processing Course at Opencampus.sh">
       <main className="container margin-vert--lg">
         <div className="text--center">
           <h1>{TITLE}</h1>

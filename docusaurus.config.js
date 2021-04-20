@@ -30,6 +30,7 @@ module.exports = {
         },
       ],
     },
+    image: "static/img/logo_OC.png",
     footer: {
       style: 'dark',
       links: [
