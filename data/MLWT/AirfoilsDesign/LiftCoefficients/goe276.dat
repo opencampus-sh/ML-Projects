@@ -1,0 +1,21 @@
+# 1st dimension: Re = np.logspace(np.log10(1.4e6), np.log10(1.05e7), 20); 2nd dimension: alpha = np.arange(-5., 5.5, .5)
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-7.531883567571640015e-02,-2.697632089257240295e-02,2.562653459608554840e-02,7.950349152088165283e-02,1.342178583145141602e-01,nan,2.424783408641815186e-01,2.982883155345916748e-01,3.542255163192749023e-01,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-7.433386892080307007e-02,-2.822178602218627930e-02,2.530205436050891876e-02,7.963664084672927856e-02,1.344909071922302246e-01,1.873457431793212891e-01,2.429669499397277832e-01,2.988151013851165771e-01,3.547805845737457275e-01,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-7.458478957414627075e-02,-2.799383737146854401e-02,nan,7.699736207723617554e-02,1.316369920969009399e-01,1.868844777345657349e-01,2.424737662076950073e-01,2.982623577117919922e-01,3.541457951068878174e-01,4.101127088069915771e-01,4.672566652297973633e-01,5.230271816253662109e-01,5.789040327072143555e-01,6.350877881050109863e-01,6.909196376800537109e-01,nan,nan,8.595103025436401367e-01,nan,9.632362723350524902e-01,1.017189502716064453e+00
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.104998707771301270e-01,nan,nan
+-7.529021054506301880e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.226991772651672363e-01,5.802738070487976074e-01,6.359753012657165527e-01,6.916786432266235352e-01,7.470744848251342773e-01,8.020703792572021484e-01,8.576462268829345703e-01,9.109445810317993164e-01,9.650030732154846191e-01,nan
+-7.391127198934555054e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,8.957981467247009277e-01,9.660576581954956055e-01,nan
+-7.254388928413391113e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-7.116267085075378418e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,8.590095639228820801e-01,9.134133458137512207e-01,9.680544734001159668e-01,nan
+-6.978709250688552856e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.847899407148361206e-02,-2.147494256496429443e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.721559166908264160e-02,-2.014773711562156677e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.601135432720184326e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.487122923135757446e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.386403739452362061e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.307779252529144287e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.247785687446594238e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-6.165254861116409302e-02,-1.131823565810918808e-02,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan

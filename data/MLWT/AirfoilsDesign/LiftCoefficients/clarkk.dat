@@ -1,0 +1,21 @@
+# 1st dimension: Re = np.logspace(np.log10(1.4e6), np.log10(1.05e7), 20); 2nd dimension: alpha = np.arange(-5., 5.5, .5)
+-9.755448997020721436e-02,-5.504309013485908508e-02,-1.111976616084575653e-02,3.035598620772361755e-02,7.555235177278518677e-02,1.207318753004074097e-01,1.684466302394866943e-01,2.170477509498596191e-01,2.592782974243164062e-01,nan,nan,nan,4.720011055469512939e-01,5.244624614715576172e-01,5.766167044639587402e-01,6.281694173812866211e-01,6.776556968688964844e-01,7.252771854400634766e-01,7.746226787567138672e-01,8.248052597045898438e-01,8.666489124298095703e-01
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.143753051757812500e-01,4.695468842983245850e-01,5.233483910560607910e-01,5.753692984580993652e-01,6.257957816123962402e-01,6.751545071601867676e-01,7.252233624458312988e-01,7.758100032806396484e-01,8.258118629455566406e-01,8.679574728012084961e-01
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.720549225807189941e-01,6.236760020256042480e-01,6.749612092971801758e-01,7.261583805084228516e-01,7.768132686614990234e-01,8.259487748146057129e-01,8.695370554924011230e-01
+-9.993270039558410645e-02,-6.280138343572616577e-02,-2.050516195595264435e-02,2.325767278671264648e-02,nan,nan,nan,2.041115164756774902e-01,nan,nan,nan,4.080320894718170166e-01,4.621260464191436768e-01,5.145528316497802734e-01,5.666385293006896973e-01,6.184107065200805664e-01,6.697858572006225586e-01,7.205919623374938965e-01,7.701392769813537598e-01,8.175548315048217773e-01,8.631893992424011230e-01
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan

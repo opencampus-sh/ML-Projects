@@ -1,0 +1,21 @@
+# 1st dimension: Re = np.logspace(np.log10(1.4e6), np.log10(1.05e7), 20); 2nd dimension: alpha = np.arange(-5., 5.5, .5)
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.850485563278198242e-01,6.343557238578796387e-01,6.837010383605957031e-01,6.766541004180908203e-01,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+1.089157611131668091e-01,1.324748396873474121e-01,1.590396463871002197e-01,1.904082745313644409e-01,2.244048416614532471e-01,2.543751895427703857e-01,2.846374213695526123e-01,3.184157013893127441e-01,3.578354120254516602e-01,3.976259827613830566e-01,nan,4.794757664203643799e-01,5.218947529792785645e-01,5.690994262695312500e-01,6.133469939231872559e-01,nan,6.744617223739624023e-01,7.184088230133056641e-01,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.817227721214294434e-01,5.210179090499877930e-01,5.733434557914733887e-01,6.182032823562622070e-01,6.600596904754638672e-01,6.746817827224731445e-01,7.200660705566406250e-01,7.644273042678833008e-01,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+1.076096892356872559e-01,1.206297725439071655e-01,1.451781690120697021e-01,1.747756749391555786e-01,2.059813141822814941e-01,2.400434017181396484e-01,2.771761119365692139e-01,3.161805272102355957e-01,3.562912046909332275e-01,3.966232836246490479e-01,nan,4.785164892673492432e-01,5.225980281829833984e-01,5.770173668861389160e-01,6.230803132057189941e-01,6.664581298828125000e-01,6.748575568199157715e-01,7.211305499076843262e-01,7.659105658531188965e-01,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.748785972595214844e-01,7.202422022819519043e-01,7.655898332595825195e-01,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan

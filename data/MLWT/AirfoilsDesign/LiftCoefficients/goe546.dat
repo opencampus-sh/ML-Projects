@@ -1,0 +1,21 @@
+# 1st dimension: Re = np.logspace(np.log10(1.4e6), np.log10(1.05e7), 20); 2nd dimension: alpha = np.arange(-5., 5.5, .5)
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,2.587740123271942139e-01,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.261413455009460449e-01,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.748096346855163574e-01,7.200207710266113281e-01,7.626450657844543457e-01,8.030359745025634766e-01,8.422635793685913086e-01,8.819686174392700195e-01
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,3.256981372833251953e-01,3.796413540840148926e-01,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-1.072498559951782227e-01,nan,nan,nan,nan,nan,nan,2.725502550601959229e-01,3.266991674900054932e-01,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-1.073298007249832153e-01,nan,nan,nan,nan,nan,nan,2.734553813934326172e-01,3.276807963848114014e-01,3.817847073078155518e-01,4.357482492923736572e-01,4.895451366901397705e-01,nan,nan,nan,nan,nan,nan,nan,nan,nan
+-1.070959940552711487e-01,-5.246963724493980408e-02,nan,nan,nan,nan,2.199455052614212036e-01,2.743368744850158691e-01,3.286335468292236328e-01,3.828155100345611572e-01,nan,4.907441139221191406e-01,5.444391965866088867e-01,nan,nan,nan,nan,nan,nan,nan,nan
+-1.049355641007423401e-01,-5.067097023129463196e-02,nan,nan,nan,1.663191020488739014e-01,2.205324769020080566e-01,2.746788263320922852e-01,3.287411034107208252e-01,3.827006220817565918e-01,4.365395307540893555e-01,4.902390539646148682e-01,5.437772274017333984e-01,5.971275568008422852e-01,nan,nan,nan,nan,nan,nan,nan
