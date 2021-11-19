@@ -1,0 +1,7 @@
+imutils==0.5.4
+matplotlib==3.4.2
+numpy==1.21.0
+opencv-python==4.5.2.54
+torch==1.8.1+cu111
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
